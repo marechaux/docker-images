@@ -25,5 +25,5 @@ jobs:
         name: Build and push
         uses: docker/build-push-action@v5
         with:
-          push: false
-          tags: user/app:latest
+          push: true
+          tags: tmarechaux/ml-prototyping:pytorch2.1.0-cuda12.1

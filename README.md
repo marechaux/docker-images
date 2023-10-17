@@ -1,2 +1,3 @@
 # docker-images
-Repository that builds docker image for me 
+
+Repository that builds and push docker image that I use to prototype ML things 
